@@ -21,3 +21,9 @@ body
 {
     font-size: 20px;
 }
+
+#Cabecera
+{
+    color: rgb(105, 103, 103);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
