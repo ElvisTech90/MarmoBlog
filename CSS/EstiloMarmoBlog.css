@@ -1,6 +1,7 @@
 body
 {
-    color: rgb(29, 28, 28);
+    color: rgb(255, 255, 255);
+    background-color: rgb(85, 85, 85);
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -11,13 +12,24 @@ body
 #container 
 {
     width: 70%;
-    padding: 1cm;
     text-align: left;
-    border: 1px solid #000;
-    margin: 0 auto;
+    border: 2px solid #000;
+    margin: 15px auto;
 }
 
 #container h1
 {
-    font-size: 20px;
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(85, 85, 85);
+    padding: 5px;
+    margin: 5px;
+
+}
+
+p
+{
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
 }
